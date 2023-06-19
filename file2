@@ -1,4 +1,4 @@
 #!/bin/bash
 echo “this is $1”
 echo “today is $2”
-
+echo "this is $3"
