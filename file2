@@ -1,4 +1,8 @@
 #!/bin/bash
 echo “this is $1”
 echo “today is $2”
-echo "this is $3"
+<<<<<<< HEAD
+echo "this is $4"
+=======
+echo "this is $4"
+>>>>>>> branch1
